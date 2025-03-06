@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "appwrite": "^17.0.0",
+    "react-use": "^17.6.0"
+  }
+}
